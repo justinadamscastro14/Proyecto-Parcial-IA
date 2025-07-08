@@ -1,0 +1,29 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <!-- Body -->
+  <ellipse cx="10" cy="10" rx="4" ry="3" fill="#654321" stroke="#8B4513" stroke-width="0.5"/>
+  
+  <!-- Head -->
+  <circle cx="10" cy="6" r="2" fill="#654321" stroke="#8B4513" stroke-width="0.5"/>
+  
+  <!-- Eyes -->
+  <circle cx="9" cy="5.5" r="0.5" fill="#FF0000"/>
+  <circle cx="11" cy="5.5" r="0.5" fill="#FF0000"/>
+  <circle cx="8.5" cy="6.5" r="0.3" fill="#8B0000"/>
+  <circle cx="11.5" cy="6.5" r="0.3" fill="#8B0000"/>
+  
+  <!-- Left legs -->
+  <line x1="6" y1="8" x2="2" y2="6" stroke="#654321" stroke-width="1"/>
+  <line x1="6" y1="10" x2="1" y2="10" stroke="#654321" stroke-width="1"/>
+  <line x1="6" y1="12" x2="2" y2="14" stroke="#654321" stroke-width="1"/>
+  <line x1="7" y1="13" x2="3" y2="16" stroke="#654321" stroke-width="1"/>
+  
+  <!-- Right legs -->
+  <line x1="14" y1="8" x2="18" y2="6" stroke="#654321" stroke-width="1"/>
+  <line x1="14" y1="10" x2="19" y2="10" stroke="#654321" stroke-width="1"/>
+  <line x1="14" y1="12" x2="18" y2="14" stroke="#654321" stroke-width="1"/>
+  <line x1="13" y1="13" x2="17" y2="16" stroke="#654321" stroke-width="1"/>
+  
+  <!-- Abdomen pattern -->
+  <ellipse cx="10" cy="10" rx="2" ry="1.5" fill="#8B4513"/>
+  <circle cx="10" cy="9" r="0.5" fill="#FF4500"/>
+</svg> 

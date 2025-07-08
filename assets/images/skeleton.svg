@@ -1,0 +1,29 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <!-- Skull -->
+  <circle cx="10" cy="7" r="3.5" fill="#F5F5DC" stroke="#D3D3D3" stroke-width="0.5"/>
+  
+  <!-- Eye sockets -->
+  <circle cx="8.5" cy="6.5" r="1" fill="#000000"/>
+  <circle cx="11.5" cy="6.5" r="1" fill="#000000"/>
+  
+  <!-- Nasal cavity -->
+  <polygon points="10,8 9,9.5 11,9.5" fill="#000000"/>
+  
+  <!-- Ribcage -->
+  <ellipse cx="10" cy="13" rx="3" ry="4" fill="none" stroke="#F5F5DC" stroke-width="1"/>
+  <line x1="8" y1="11" x2="8" y2="15" stroke="#F5F5DC" stroke-width="0.5"/>
+  <line x1="10" y1="10.5" x2="10" y2="15.5" stroke="#F5F5DC" stroke-width="0.5"/>
+  <line x1="12" y1="11" x2="12" y2="15" stroke="#F5F5DC" stroke-width="0.5"/>
+  
+  <!-- Arms -->
+  <line x1="7" y1="11" x2="5" y2="14" stroke="#F5F5DC" stroke-width="1"/>
+  <line x1="13" y1="11" x2="15" y2="14" stroke="#F5F5DC" stroke-width="1"/>
+  
+  <!-- Legs -->
+  <line x1="8.5" y1="17" x2="7.5" y2="19.5" stroke="#F5F5DC" stroke-width="1"/>
+  <line x1="11.5" y1="17" x2="12.5" y2="19.5" stroke="#F5F5DC" stroke-width="1"/>
+  
+  <!-- Bow -->
+  <path d="M 16,10 Q 18,12 16,14" fill="none" stroke="#8B4513" stroke-width="1"/>
+  <line x1="16" y1="10" x2="16" y2="14" stroke="#654321" stroke-width="0.5"/>
+</svg> 

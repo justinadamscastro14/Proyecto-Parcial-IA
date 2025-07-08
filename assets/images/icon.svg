@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Triforce -->
+  <polygon points="16,4 12,12 20,12" fill="#FFD700" stroke="#B8860B" stroke-width="1"/>
+  <polygon points="8,20 12,12 16,20" fill="#FFD700" stroke="#B8860B" stroke-width="1"/>
+  <polygon points="16,20 20,12 24,20" fill="#FFD700" stroke="#B8860B" stroke-width="1"/>
+  
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="none" stroke="#228B22" stroke-width="2"/>
+</svg> 

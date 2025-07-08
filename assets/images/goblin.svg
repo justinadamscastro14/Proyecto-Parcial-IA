@@ -1,0 +1,27 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <circle cx="10" cy="7" r="3.5" fill="#228B22" stroke="#006400" stroke-width="0.5"/>
+  
+  <!-- Ears -->
+  <polygon points="6,5 5,3 7,4" fill="#228B22" stroke="#006400" stroke-width="0.5"/>
+  <polygon points="14,5 15,3 13,4" fill="#228B22" stroke="#006400" stroke-width="0.5"/>
+  
+  <!-- Eyes -->
+  <circle cx="8.5" cy="6.5" r="0.8" fill="#FF0000"/>
+  <circle cx="11.5" cy="6.5" r="0.8" fill="#FF0000"/>
+  
+  <!-- Body -->
+  <ellipse cx="10" cy="13" rx="3" ry="4" fill="#654321" stroke="#8B4513" stroke-width="0.5"/>
+  
+  <!-- Arms -->
+  <ellipse cx="6" cy="12" rx="1.5" ry="2.5" fill="#228B22" stroke="#006400" stroke-width="0.5"/>
+  <ellipse cx="14" cy="12" rx="1.5" ry="2.5" fill="#228B22" stroke="#006400" stroke-width="0.5"/>
+  
+  <!-- Legs -->
+  <ellipse cx="8" cy="17.5" rx="1" ry="2" fill="#228B22" stroke="#006400" stroke-width="0.5"/>
+  <ellipse cx="12" cy="17.5" rx="1" ry="2" fill="#228B22" stroke="#006400" stroke-width="0.5"/>
+  
+  <!-- Club -->
+  <rect x="15" y="8" width="1" height="6" fill="#8B4513" stroke="#654321" stroke-width="0.5"/>
+  <circle cx="15.5" cy="8" r="1.5" fill="#8B4513" stroke="#654321" stroke-width="0.5"/>
+</svg> 

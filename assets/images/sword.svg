@@ -1,0 +1,20 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blade -->
+  <polygon points="20,2 22,2 25,35 15,35 18,2" fill="#C0C0C0" stroke="#808080" stroke-width="1"/>
+  
+  <!-- Edge -->
+  <line x1="20" y1="2" x2="20" y2="35" stroke="#E6E6FA" stroke-width="1"/>
+  
+  <!-- Guard -->
+  <rect x="12" y="34" width="16" height="3" fill="#B8860B" stroke="#DAA520" stroke-width="0.5"/>
+  
+  <!-- Handle -->
+  <rect x="18" y="37" width="4" height="3" fill="#8B4513" stroke="#654321" stroke-width="0.5"/>
+  <rect x="17" y="37.5" width="6" height="0.5" fill="#654321"/>
+  <rect x="17" y="38.5" width="6" height="0.5" fill="#654321"/>
+  
+  <!-- Sparkle effect -->
+  <polygon points="10,15 11,16 10,17 9,16" fill="#FFFF00" opacity="0.8"/>
+  <polygon points="30,10 31,11 30,12 29,11" fill="#FFFF00" opacity="0.8"/>
+  <polygon points="25,25 26,26 25,27 24,26" fill="#FFFF00" opacity="0.8"/>
+</svg> 
